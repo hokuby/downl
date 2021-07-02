@@ -1,6 +1,4 @@
-{
-  "status": true,
-  "data": [
+[
     {
       "id": 1,
       "name": "Facebook",
@@ -62,4 +60,3 @@
       ]
     }
   ]
-}
