@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Facebook",
       "img": "https://raw.githubusercontent.com/hokuby/downl/main/icons/facebook.png",
-      "color": "ffc5f2f9",
+      "color": 0xffc5f2f9,
       "hint": [
         "https://wwww.facebook.com/....",
         "https://fb.videos"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "Instagram",
       "img": "https://raw.githubusercontent.com/hokuby/downl/main/icons/facebook.png",
-      "color": "ffdae6f6",
+      "color": 0xffdae6f6,
       "hint": [
         "https://wwww.facebook.com/....",
         "https://fb.videos"
@@ -23,7 +23,7 @@
       "id":3,
       "name": "Daily Motion",
       "img": "https://raw.githubusercontent.com/hokuby/downl/main/icons/facebook.png",
-      "color": "fffde6d6",
+      "color": 0xfffde6d6,
       "hint": [
         "https://wwww.facebook.com/....",
         "https://fb.videos"
@@ -33,7 +33,7 @@
       "id": 4,
       "name": "Facebook",
       "img": "https://raw.githubusercontent.com/hokuby/downl/main/icons/facebook.png",
-      "color": "ffdae6f6",
+      "color": 0xffdae6f6,
       "hint": [
         "https://wwww.facebook.com/....",
         "https://fb.videos"
@@ -43,7 +43,7 @@
       "id": 5,
       "name": "Instagram",
       "img": "https://raw.githubusercontent.com/hokuby/downl/main/icons/facebook.png",
-      "color":"fffde6d6",
+      "color": 0xfffde6d6,
       "hint": [
         "https://wwww.facebook.com/....",
         "https://fb.videos"
@@ -53,7 +53,7 @@
       "id":6,
       "name": "Daily Motion",
       "img": "https://raw.githubusercontent.com/hokuby/downl/main/icons/facebook.png",
-      "color": "ffc5f2f9",
+      "color": 0xffc5f2f9,
       "hint": [
         "https://wwww.facebook.com/....",
         "https://fb.videos"
