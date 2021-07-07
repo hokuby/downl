@@ -13,5 +13,6 @@
     "data": 15,
     "showAppReview":1,
     "showad": 1,
-    "time": 300
+    "time": 300,
+    "url":"https://hokuvpn.com"
 }
