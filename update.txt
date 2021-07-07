@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "version": 1,
+    "android": "https://play.google.com/store/apps/details?id=net.mus.bts_song",
+    "more_app": "https://play.google.com/store/apps/developer?id=Dark Bee",
+    "page": "https://www.facebook.com/btsfanpageforu",
+    "rateus": "https://play.google.com/store/apps/details?id=net.mus.bts_song",
+    "gbnr": "ca-app-pub-3940256099942544/6300978111",
+    "gint": "ca-app-pub-3940256099942544/1033173712",
+    "gappopen": "ca-app-pub-3940256099942544/3419835294",
+    "gappid": "ca-app-pub-3940256099942544~3347511713",
+    "status": "open",
+    "data": 15,
+    "showAppReview":1,
+    "showad": 1,
+    "time": 300
+}
